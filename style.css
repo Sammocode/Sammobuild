@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  /* remove side scroll bar */
+  overflow-x: clip;
+}
+canvas {
+  display: block;
+}
+
+/* css comments are also different */
+
+p{
+  background-color: red;
+  color: white;
+}
